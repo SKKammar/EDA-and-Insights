@@ -44,8 +44,7 @@ The notebook runs on Google Colab — no local setup needed.
 2. Upload `zomato.csv` to the Colab file panel (the notebook checks for it automatically)
 3. Run all cells top to bottom (`Runtime → Run all`)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKKammar/EDA-and-Insights/blob/main/Project1EDAPlutoAcademy.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKKammar/EDA-and-Insights/blob/main/ExploratoryDataAnalysis.ipynb)
 ---
 
 ## What's inside the notebook
