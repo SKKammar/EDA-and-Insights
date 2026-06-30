@@ -20,7 +20,7 @@ The answers were honestly more clear-cut than I expected.
 
 ## Key findings
 
-- **Delhi NCR is 80%+ of the dataset.** New Delhi alone has 5,473 listings. The rest of the country barely registers — which is either an opportunity or a data collection problem, depending on how you look at it.
+- **Delhi NCR makes up over 75% of the dataset.** New Delhi alone has 5,473 listings — about 57% on its own. Add Gurgaon and Noida and Delhi NCR clears three-quarters of all listings. The rest of the country barely registers — which is either an opportunity or a data collection problem, depending on how you look at it.
 - **Online delivery correlates with higher ratings.** Delivery-enabled restaurants average 3.25 vs 2.46 — a 0.79-point gap that's hard to ignore.
 - **Table booking restaurants get 3x more votes.** Whether that's because better restaurants offer booking, or because booking drives engagement, is worth digging into further.
 - **About 25% of restaurants have no rating at all.** They show up as 0.0, which skews any aggregate stats if you're not careful.
@@ -45,6 +45,7 @@ The notebook runs on Google Colab — no local setup needed.
 3. Run all cells top to bottom (`Runtime → Run all`)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SKKammar/EDA-and-Insights/blob/main/ExploratoryDataAnalysis.ipynb)
+
 ---
 
 ## What's inside the notebook
